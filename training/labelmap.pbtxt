@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'laptop'
+}
+
+item {
+  id: 2
+  name: 'street_light'
+}

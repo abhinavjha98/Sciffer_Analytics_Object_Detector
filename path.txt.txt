@@ -1,0 +1,4 @@
+set PYTHONPATH=E:\Material-Models\laptopstreet;E:\Material-Models\laptopstreet\research\;E:\Material-Models\laptopstreet\research\slim
+echo %PYTHONPATH%
+set PATH=%PATH%;PYTHONPATH
+echo %PATH%
